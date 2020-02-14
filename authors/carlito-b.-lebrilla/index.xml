@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlito B. Lebrilla | Chenghao Zhu</title>
+    <link>https://www.chenghaozhu.net/cv/authors/carlito-b.-lebrilla/</link>
+      <atom:link href="https://www.chenghaozhu.net/cv/authors/carlito-b.-lebrilla/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carlito B. Lebrilla</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Carlito B. Lebrilla</title>
+      <link>https://www.chenghaozhu.net/cv/authors/carlito-b.-lebrilla/</link>
+    </image>
+    
+    <item>
+      <title>Site-Specific Glycoprofiles of HDL-Associated ApoE are Correlated with HDL Functional Capacity and Unaffected by Short-Term Diet</title>
+      <link>https://www.chenghaozhu.net/cv/publication/zhu-2019-ffs-glycan/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.chenghaozhu.net/cv/publication/zhu-2019-ffs-glycan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

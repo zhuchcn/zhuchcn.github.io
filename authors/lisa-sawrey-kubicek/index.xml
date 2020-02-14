@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lisa Sawrey-Kubicek | Chenghao Zhu</title>
+    <link>https://www.chenghaozhu.net/cv/authors/lisa-sawrey-kubicek/</link>
+      <atom:link href="https://www.chenghaozhu.net/cv/authors/lisa-sawrey-kubicek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lisa Sawrey-Kubicek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Lisa Sawrey-Kubicek</title>
+      <link>https://www.chenghaozhu.net/cv/authors/lisa-sawrey-kubicek/</link>
+    </image>
+    
+    <item>
+      <title>Site-Specific Glycoprofiles of HDL-Associated ApoE are Correlated with HDL Functional Capacity and Unaffected by Short-Term Diet</title>
+      <link>https://www.chenghaozhu.net/cv/publication/zhu-2019-ffs-glycan/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.chenghaozhu.net/cv/publication/zhu-2019-ffs-glycan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The HDL lipidome is widely remodeled by fast food versus Mediterranean diet in 4 days.</title>
+      <link>https://www.chenghaozhu.net/cv/publication/zhu-2019-ffs-lipidome/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.chenghaozhu.net/cv/publication/zhu-2019-ffs-lipidome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole egg consumption compared with yolk-free egg increases the cholesterol efflux capacity of high-density lipoproteins in overweight, postmenopausal women.</title>
+      <link>https://www.chenghaozhu.net/cv/publication/sawrey-kubicek-2019-egg/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.chenghaozhu.net/cv/publication/sawrey-kubicek-2019-egg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

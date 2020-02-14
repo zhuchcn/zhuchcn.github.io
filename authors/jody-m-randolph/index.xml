@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jody M Randolph | Chenghao Zhu</title>
+    <link>https://www.chenghaozhu.net/cv/authors/jody-m-randolph/</link>
+      <atom:link href="https://www.chenghaozhu.net/cv/authors/jody-m-randolph/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jody M Randolph</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jody M Randolph</title>
+      <link>https://www.chenghaozhu.net/cv/authors/jody-m-randolph/</link>
+    </image>
+    
+    <item>
+      <title>Whole egg consumption compared with yolk-free egg increases the cholesterol efflux capacity of high-density lipoproteins in overweight, postmenopausal women.</title>
+      <link>https://www.chenghaozhu.net/cv/publication/sawrey-kubicek-2019-egg/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.chenghaozhu.net/cv/publication/sawrey-kubicek-2019-egg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
