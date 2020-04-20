@@ -51,11 +51,13 @@ img[src*="skills"]{
 
 </style>
 
-![R](img/skills/R.png)
-![python](img/skills/python.jpg)
-![javascript](img/skills/js.png)
-![C++](img/skills/cpp.jpg)
-![shiny](img/skills/shiny.jpg)
-![flask](img/skills/flask.png)
-![vue](img/skills/vue.png)
-![mysql](img/skills/mysql.jpg)
+[![R](img/skills/R.png)](https://www.r-project.org/)
+[![python](img/skills/python.jpg)](https://www.python.org/)
+[![C++](img/skills/cpp.jpg)](http://www.cplusplus.com/)
+[![javascript](img/skills/js.png)](https://www.javascript.com/)
+[![shiny](img/skills/shiny.jpg)](https://shiny.rstudio.com/)
+[![flask](img/skills/flask.png)](https://palletsprojects.com/p/flask/)
+[![vue](img/skills/vue.png)](https://vuejs.org/)
+[![snakemake](img/skills/snakemake.svg)](https://snakemake.readthedocs.io/en/stable/)
+[![mysql](img/skills/mysql.jpg)](https://www.mysql.com/)
+[![docker](img/skills/docker.png)](https://www.docker.com/)
