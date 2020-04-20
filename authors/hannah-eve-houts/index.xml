@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chris H. Rhodes | Chenghao Zhu</title>
-    <link>https://www.chenghaozhu.net/cv/authors/chris-h.-rhodes/</link>
-      <atom:link href="https://www.chenghaozhu.net/cv/authors/chris-h.-rhodes/index.xml" rel="self" type="application/rss+xml" />
-    <description>Chris H. Rhodes</description>
+    <title>Hannah Eve Houts | Chenghao Zhu</title>
+    <link>https://www.chenghaozhu.net/cv/authors/hannah-eve-houts/</link>
+      <atom:link href="https://www.chenghaozhu.net/cv/authors/hannah-eve-houts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hannah Eve Houts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Chris H. Rhodes</title>
-      <link>https://www.chenghaozhu.net/cv/authors/chris-h.-rhodes/</link>
+      <title>Hannah Eve Houts</title>
+      <link>https://www.chenghaozhu.net/cv/authors/hannah-eve-houts/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://www.chenghaozhu.net/cv/publication/zhu-2019-ffs-mcb/</link>
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://www.chenghaozhu.net/cv/publication/zhu-2019-ffs-mcb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Site-Specific Glycoprofiles of HDL-Associated ApoE are Correlated with HDL Functional Capacity and Unaffected by Short-Term Diet</title>
-      <link>https://www.chenghaozhu.net/cv/publication/zhu-2019-ffs-glycan/</link>
-      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.chenghaozhu.net/cv/publication/zhu-2019-ffs-glycan/</guid>
       <description></description>
     </item>
     
