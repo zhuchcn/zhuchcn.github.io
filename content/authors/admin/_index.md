@@ -59,6 +59,9 @@ social:
 - icon: weixin
   icon_pack: fab
   link: /img/qrcode.jpg
+- icon: id-card
+  icon_pack: fas
+  link: /img/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -75,4 +78,4 @@ user_groups:
 - Visitors
 ---
 
-Chenghao Zhu is a post-doc fellow in [the nutrition department](https://nutrition.ucdavis.edu/) at [UC Davis](https://www.ucdavis.edu), working in Dr. [Angela Zivkovic](https://zivkoviclab.ucdavis.edu)'s lab. His research interests are (1) using hight through-put experiment methods such as metabolomics, proteomics, microbiome and RNA-seq to understand the relationship between diet and health and (2) developing software and web applications to solve the problem in (1).
+[Chenghao Zhu](/cv/img/cv.pdf) is a post-doc fellow in [the nutrition department](https://nutrition.ucdavis.edu/) at [UC Davis](https://www.ucdavis.edu), working in Dr. [Angela Zivkovic](https://zivkoviclab.ucdavis.edu)'s lab. His research interests are (1) using hight through-put experiment methods such as metabolomics, proteomics, microbiome and RNA-seq to understand the relationship between diet and health and (2) developing software and web applications to solve the problem in (1).
