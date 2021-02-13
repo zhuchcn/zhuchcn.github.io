@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Davis
-  url: "https://www.ucdavis.edu"
+- name: University of California, Los Angeles
+  url: "https://www.ucla.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
+- Cancer Genomics
+- Proteogenomics
 - Bioinformatics and Computational Biology
-- HDL Composition and Function
-- Microbiome and Metabolome
 - Data Analysis and Visualization
 - Software and Web Development
 
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:chhzhu@ucdavis.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ChenghaoZhu@mednet.ucla.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=4jb1IdgAAAAJ&view_op=list_works&authuser=1&sortby=pubdate
@@ -69,7 +69,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "chhzhu@ucdavis.edu"
+email: "ChenghaoZhu@mednet.ucla.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -78,4 +78,4 @@ user_groups:
 - Visitors
 ---
 
-[Chenghao Zhu](/cv/img/cv.pdf) is a post-doc fellow in [the nutrition department](https://nutrition.ucdavis.edu/) at [UC Davis](https://www.ucdavis.edu), working in Dr. [Angela Zivkovic](https://zivkoviclab.ucdavis.edu)'s lab. His research interests are (1) using hight through-put experiment methods such as metabolomics, proteomics, microbiome and RNA-seq to understand the relationship between diet and health and (2) developing software and web applications to solve the problem in (1).
+[Chenghao Zhu](/cv/img/cv.pdf) is a postdoctoral scholar in the Cancer Data Science Center of the [Jonsson Comprehensive Cancer Center](https://cancer.ucla.edu/) at [UCLA](https://www.ucla.edu/), working with Dr. [Paul Boutros](https://cancer.ucla.edu/research/find-become-a-member/meet-our-leadership/paul-boutros-director-cancer-data-science). He's research interests include developing algorithms and softwares for proteogenomic analysis, and utilizing proteogenomics in diagnosis, prognosis, and understanding the clinico-epidemiologic differences in cancer.

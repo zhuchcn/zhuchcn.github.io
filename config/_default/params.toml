@@ -81,11 +81,11 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "chhzhu@ucdavis.edu"
+email = "ChenghaoZhu@mednet.ucla.edu"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "3150A Meyer Hall", city = "Davis", region = "CA", postcode = "95616", country = "United States", country_code = "US"}
+address = {street = "10833 Le Conte Ave", city = "Los Angeles", region = "CA", postcode = "90024", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
