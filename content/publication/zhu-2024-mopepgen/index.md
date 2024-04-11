@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Whole egg consumption compared with yolk-free egg increases the cholesterol efflux capacity of high-density lipoproteins in overweight, postmenopausal women."
-authors: ["Lisa Sawrey-Kubicek", "Chenghao Zhu", "Allison S Bardagjy", "Christopher H Rhodes", "Romina Sacchi", "Jody M Randolph", "Francene M Steinberg", "Angela M Zivkovic"]
-date: 2019-07-07T00:00:00
-doi: "10.1093/ajcn/nqz088"
+title: "moPepGen: Rapid and Comprehensive Proteoform Identification"
+authors: ["Chenghao Zhu", "Lydia Y Liu", "Takafumi N Yamaguchi", "Helen Zhu", "Rupert Hugh-White", "Julie Livingstone", "Yash Patel", "Thomas Kislinger", "Paul C Boutros"]
+date: 2024-03-31T00:00:00
+doi: "doi.org/10.1101/2024.03.28.587261"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-07-07T00:00:00
@@ -13,11 +13,11 @@ publishDate: 2019-07-07T00:00:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*the American Journal of Clinical Nutrition*"
-publication_short: "*Am J Clin Nutr*"
+publication: "*bioRxiv*"
+publication_short: "*bioRxiv*"
 
 abstract: ""
 
@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code:
+url_code: https://github.com/uclahs-cds/package-moPepGen
 url_dataset:
 url_poster:
 url_project:
@@ -46,7 +46,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Scholar
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,13 @@ organizations:
   url: "https://www.ucla.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
-- Cancer Genomics
 - Proteogenomics
+- Cancer Genomics
 - Bioinformatics and Computational Biology
-- Data Analysis and Visualization
-- Software and Web Development
+- Neoantigen
 
 education:
   courses:
