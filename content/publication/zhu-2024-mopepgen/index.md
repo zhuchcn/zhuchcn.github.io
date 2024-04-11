@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "*bioRxiv*"
 publication_short: "*bioRxiv*"
 
-abstract: ""
+abstract: "Gene expression is a multi-step transformation of biological information from its storage form (DNA) into functional forms (protein and some RNAs). Regulatory activities at each step of this transformation multiply a single gene into a myriad of proteoforms. Proteogenomics is the study of how genomic and transcriptomic variation creates this proteoform diversity, and is limited by the challenges of modeling the complexities of gene-expression. We therefore created moPepGen, a graph-based algorithm that comprehensively enumerates proteoforms in linear time. moPepGen works with multiple technologies, in multiple species and on all types of genetic and transcriptomic data. In human cancer proteomes, it detects and quantifies previously unobserved noncanonical peptides arising from germline and somatic genomic variants, noncoding open reading frames, RNA fusions and RNA circularization. By enabling efficient identification and quantitation of previously hidden proteins in both existing and new proteomic data, moPepGen facilitates all proteogenomics applications. It is available at: https://github.com/uclahs-cds/package-moPepGen."
 
 # Summary. An optional shortened abstract.
 summary: ""
