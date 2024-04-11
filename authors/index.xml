@@ -5,7 +5,7 @@
     <link>https://www.chenghaozhu.net/authors/</link>
       <atom:link href="https://www.chenghaozhu.net/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,18 +13,82 @@
     </image>
     
     <item>
-      <title>Angela M. Zivkovic</title>
-      <link>https://www.chenghaozhu.net/authors/angela-m.-zivkovic/</link>
-      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.chenghaozhu.net/authors/angela-m.-zivkovic/</guid>
+      <title>Chenghao Zhu</title>
+      <link>https://www.chenghaozhu.net/authors/chenghao-zhu/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.chenghaozhu.net/authors/chenghao-zhu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Chenghao Zhu</title>
-      <link>https://www.chenghaozhu.net/authors/chenghao-zhu/</link>
+      <title>Helen Zhu</title>
+      <link>https://www.chenghaozhu.net/authors/helen-zhu/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.chenghaozhu.net/authors/helen-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julie Livingstone</title>
+      <link>https://www.chenghaozhu.net/authors/julie-livingstone/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.chenghaozhu.net/authors/julie-livingstone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lydia Y Liu</title>
+      <link>https://www.chenghaozhu.net/authors/lydia-y-liu/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.chenghaozhu.net/authors/lydia-y-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul C Boutros</title>
+      <link>https://www.chenghaozhu.net/authors/paul-c-boutros/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.chenghaozhu.net/authors/paul-c-boutros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rupert Hugh-White</title>
+      <link>https://www.chenghaozhu.net/authors/rupert-hugh-white/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.chenghaozhu.net/authors/rupert-hugh-white/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Takafumi N Yamaguchi</title>
+      <link>https://www.chenghaozhu.net/authors/takafumi-n-yamaguchi/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.chenghaozhu.net/authors/takafumi-n-yamaguchi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Kislinger</title>
+      <link>https://www.chenghaozhu.net/authors/thomas-kislinger/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.chenghaozhu.net/authors/thomas-kislinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yash Patel</title>
+      <link>https://www.chenghaozhu.net/authors/yash-patel/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.chenghaozhu.net/authors/yash-patel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angela M. Zivkovic</title>
+      <link>https://www.chenghaozhu.net/authors/angela-m.-zivkovic/</link>
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.chenghaozhu.net/authors/chenghao-zhu/</guid>
+      <guid>https://www.chenghaozhu.net/authors/angela-m.-zivkovic/</guid>
       <description></description>
     </item>
     
@@ -113,38 +177,6 @@
       <link>https://www.chenghaozhu.net/authors/riley-l-hughes/</link>
       <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://www.chenghaozhu.net/authors/riley-l-hughes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Allison S Bardagjy</title>
-      <link>https://www.chenghaozhu.net/authors/allison-s-bardagjy/</link>
-      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.chenghaozhu.net/authors/allison-s-bardagjy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christopher H Rhodes</title>
-      <link>https://www.chenghaozhu.net/authors/christopher-h-rhodes/</link>
-      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.chenghaozhu.net/authors/christopher-h-rhodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Francene M Steinberg</title>
-      <link>https://www.chenghaozhu.net/authors/francene-m-steinberg/</link>
-      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.chenghaozhu.net/authors/francene-m-steinberg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jody M Randolph</title>
-      <link>https://www.chenghaozhu.net/authors/jody-m-randolph/</link>
-      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.chenghaozhu.net/authors/jody-m-randolph/</guid>
       <description></description>
     </item>
     
