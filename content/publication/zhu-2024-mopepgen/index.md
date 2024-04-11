@@ -4,7 +4,7 @@
 title: "moPepGen: Rapid and Comprehensive Proteoform Identification"
 authors: ["Chenghao Zhu", "Lydia Y Liu", "Takafumi N Yamaguchi", "Helen Zhu", "Rupert Hugh-White", "Julie Livingstone", "Yash Patel", "Thomas Kislinger", "Paul C Boutros"]
 date: 2024-03-31T00:00:00
-doi: "doi.org/10.1101/2024.03.28.587261"
+doi: "10.1101/2024.03.28.587261"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-07-07T00:00:00
