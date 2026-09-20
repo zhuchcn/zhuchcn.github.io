@@ -22,7 +22,7 @@ bio: |
   questions.
 
 affiliations:
-  - name: Sanford Burnham Prebys
+  - name: Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA, USA
     url: https://sbpdiscovery.org/
 
 links:
@@ -30,7 +30,7 @@ links:
     url: mailto:ChenghaoZhu@mednet.ucla.edu
     label: Email
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=4jb1IdgAAAAJ
+    url: https://scholar.google.com/citations?user=V8TcFocAAAAJ
     label: Google Scholar
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/chenghao-zhu/
