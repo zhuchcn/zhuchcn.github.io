@@ -1,5 +1,7 @@
 ---
 title: "Human gut microbiome composition and tryptophan metabolites were changed differently by fast food and Mediterranean diet in four days: A pilot study"
+aliases:
+  - /publication/zhu-2019-ffs-mcb/
 authors:
   - me
   - Lisa Sawrey-Kubicek

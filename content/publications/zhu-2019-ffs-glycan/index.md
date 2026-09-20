@@ -1,5 +1,7 @@
 ---
 title: "Site-Specific Glycoprofiles of HDL-Associated ApoE are Correlated with HDL Functional Capacity and Unaffected by Short-Term Diet"
+aliases:
+  - /publication/zhu-2019-ffs-glycan/
 authors:
   - me
   - Maurice Wong

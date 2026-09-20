@@ -1,5 +1,7 @@
 ---
 title: "The HDL lipidome is widely remodeled by fast food versus Mediterranean diet in 4 days."
+aliases:
+  - /publication/zhu-2019-ffs-lipidome/
 authors:
   - me
   - Lisa Sawrey-Kubicek

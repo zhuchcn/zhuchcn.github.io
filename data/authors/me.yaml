@@ -27,7 +27,7 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:ChenghaoZhu@mednet.ucla.edu
+    url: mailto:czhu@sbpdiscovery.org
     label: Email
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=V8TcFocAAAAJ
@@ -44,6 +44,33 @@ links:
   - icon: hero/identification
     url: /uploads/resume.pdf
     label: Curriculum vitae
+
+experience:
+  - role: Postdoctoral Fellow
+    org: University of California, Los Angeles
+    start: 2020-08-01
+    end: 2025-08-31
+    summary: |
+      Department of Human Genetics, David Geffen School of Medicine, and Cancer
+      Data Science, UCLA Jonsson Comprehensive Cancer Center. Developed
+      computational methods and scalable workflows for cancer proteogenomics,
+      including moPepGen, NFTest, and the DNA and RNA meta-pipelines.
+    tags:
+      - Proteogenomics
+      - Bioinformatics
+      - Workflow development
+  - role: Postdoctoral Fellow
+    org: University of California, Davis
+    start: 2019-08-01
+    end: 2020-07-31
+    summary: |
+      Department of Nutrition. Developed computational pipelines for circulating
+      extracellular RNA analysis and software for analyzing, manipulating, and
+      visualizing quantitative high-throughput omics experiments.
+    tags:
+      - Extracellular RNA
+      - Multi-omics
+      - Software development
 
 interests:
   - Proteogenomics

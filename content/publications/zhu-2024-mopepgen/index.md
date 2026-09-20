@@ -1,5 +1,7 @@
 ---
 title: "Identification of non-canonical peptides with moPepGen"
+aliases:
+  - /publication/zhu-2024-mopepgen/
 authors:
   - me
   - Lydia Y Liu

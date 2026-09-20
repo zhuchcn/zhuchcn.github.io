@@ -6,7 +6,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -16,10 +16,6 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-      headings:
-        about: ''
-        education: ''
-        interests: ''
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -34,6 +30,13 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+  - block: resume-experience
+    id: experience
+    content:
+      username: me
+    design:
+      is_education_first: false
+      date_format: Jan 2006
   - block: markdown
     id: research
     content:
