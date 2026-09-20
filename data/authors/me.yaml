@@ -46,27 +46,44 @@ links:
     label: Curriculum vitae
 
 experience:
+  - role: Research Assistant Professor
+    org: Sanford Burnham Prebys Medical Discovery Institute
+    start: 2026-04-01
+    summary: |
+      - Cancer Genome and Epigenetics Program
+      - Center for Data Science and Artificial Intelligence
+      - Leads computational research in cancer proteogenomics,
+        biomarker discovery, and open-source method development.
+    tags:
+      - Proteogenomics
+      - Cancer biology
+      - Aging biology
+      - Computational biology
+    button:
+      text: Visit Sanford Burnham Prebys
+      url: https://sbpdiscovery.org/
   - role: Postdoctoral Fellow
     org: University of California, Los Angeles
     start: 2020-08-01
     end: 2025-08-31
     summary: |
-      Department of Human Genetics, David Geffen School of Medicine, and Cancer
-      Data Science, UCLA Jonsson Comprehensive Cancer Center. Developed
-      computational methods and scalable workflows for cancer proteogenomics,
-      including moPepGen, NFTest, and the DNA and RNA meta-pipelines.
+      - Department of Human Genetics, David Geffen School of Medicine
+      - Cancer Data Science, UCLA Jonsson Comprehensive Cancer Center, UCLA Health
+      - Developed computational algorithms and scalable pipelines for cancer proteogenomics,
+        including moPepGen, NFTest, and the DNA and RNA meta-pipelines.
     tags:
       - Proteogenomics
-      - Bioinformatics
-      - Workflow development
+      - Cancer biology
+      - Computational biology
   - role: Postdoctoral Fellow
     org: University of California, Davis
     start: 2019-08-01
     end: 2020-07-31
     summary: |
-      Department of Nutrition. Developed computational pipelines for circulating
-      extracellular RNA analysis and software for analyzing, manipulating, and
-      visualizing quantitative high-throughput omics experiments.
+      - Department of Nutrition
+      - Developed computational pipelines for circulating
+        extracellular RNA analysis and software for analyzing, manipulating, and
+        visualizing quantitative high-throughput omics experiments.
     tags:
       - Extracellular RNA
       - Multi-omics
